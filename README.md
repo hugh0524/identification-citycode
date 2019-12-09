@@ -11,3 +11,5 @@
 - c: 城市
 - c2: 区县
   
+# 生成身份证号码
+[详见](https://newblog.uproject.cn/articles/2019/12/09/1575857613861.html)
