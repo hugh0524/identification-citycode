@@ -13,3 +13,7 @@
   
 # 生成身份证号码
 [详见](https://newblog.uproject.cn/articles/2019/12/09/1575857613861.html)
+
+
+# 省市编码
+[详见](http://www.mca.gov.cn/article/sj/xzqh/2019/2019/201911250933.html)
